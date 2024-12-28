@@ -2,7 +2,7 @@
 title: My First Post
 subtitle:
 date: 2024-12-27T22:16:09+08:00
-slug: 583bc6c
+slug: first
 draft: false
 description:
 keywords:

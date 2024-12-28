@@ -126,7 +126,8 @@ theme = 'FixIt'
     dark = ""
     height = "2px"
 
-
+[params.page.comment]
+      enable = true
   [params.page.comment.giscus]
         enable = true
         repo = "kingcanfish/blog-lts"
@@ -134,7 +135,7 @@ theme = 'FixIt'
         category = "Announcements"
         categoryId = "DIC_kwDONi7Dbs4Cljer"
         mapping = "pathname"
-        origin = "https://giscus.app" # FixIt 0.3.7 | 新增 Or set it to your self-hosted domain
+        origin = "https://blog.gxy.plus" # FixIt 0.3.7 | 新增 Or set it to your self-hosted domain
         strict = "0" # FixIt 0.2.18 | 新增
         term = ""
         reactionsEnabled = "1"
@@ -143,6 +144,7 @@ theme = 'FixIt'
         lightTheme = "light"
         darkTheme = "dark"
         lazyLoad = true
+        lang = "zh-CN"
 
 
 
