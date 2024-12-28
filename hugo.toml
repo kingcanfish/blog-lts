@@ -1,0 +1,222 @@
+baseURL = 'https://blog.gxy.plus'
+languageCode = 'zh-cn'
+title = 'Kingcanfish 的小星球🪐'
+theme = 'FixIt'
+
+
+[markup]
+  _merge = "shallow"
+[outputs]
+  _merge = "shallow"
+[taxonomies]
+  _merge = "shallow"
+
+[params]
+  description = "Kingcanfish 的小星球"
+  keywords = ["Hugo", "FixIt", "Kingcanfish"]
+
+  [params.author]
+    name = "Kingcanfish"
+    email = "i@gxy.plus"
+    link = "https://gxy.plus"
+    avatar = "https://gxy.plus/assets/avatar-BhhaknQb.jpeg"
+
+
+  [params.search]
+    enable = true
+    type = "fuse"
+    contentLength = 4000
+    placeholder = ""
+    maxResultLength = 10
+    snippetLength = 30
+    highlightTag = "em"
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
+    [params.search.fuse]
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
+
+
+  [params.header]
+    desktopMode = "sticky"
+    mobileMode = "auto"
+    [params.header.title]
+      logo = ""
+      name = ""
+      pre = ""
+      post = ""
+      typeit = true
+    [params.header.subtitle]
+      name = ""
+      typeit = false
+
+
+ [params.footer]
+    enable = true
+    copyright = true
+    author = true
+    since = "2024"
+    gov = ""
+    icp = '<a target="_blank" href="https://beian.miit.gov.cn/">赣ICP备2022003182号-1</a>'
+    license = ""
+    [params.footer.powered]
+      enable = true
+      hugoLogo = true
+      themeLogo = true
+    [params.footer.siteTime]
+      enable = false
+      animate = true
+      icon = "fa-solid fa-heartbeat"
+      pre = ""
+      value = ""
+    [params.footer.order]
+      powered = 0
+      copyright = 0
+      statistics = 0
+      visitor = 0
+      beian = 0
+
+
+
+   [params.home]
+    paginate = 10
+    [params.home.profile]
+      enable = true
+      gravatarEmail = "i@gxy.plus"
+      avatarURL = "https://avatars.githubusercontent.com/u/43931057?v=4"
+      avatarMenu = "home"
+      title = ""
+      subtitle = ""
+      typeit = true
+      social = true
+      disclaimer = ""
+    [params.home.posts]
+      enable = true
+      paginate = 6
+
+
+    [params.social]
+      github = "kingcanfish"
+      telegram = "nmdbrrc2"
+      email = "i@gxy.plus"
+      rss = "true"
+
+    [params.busuanzi]
+    enable = true
+    source = "https://vercount.one/js"
+    siteViews = true
+    pageViews = true
+
+   [params.readingProgress]
+    enable = true
+    start = "left"
+    position = "top"
+    reversed = false
+    light = ""
+    dark = ""
+    height = "2px"
+
+
+  [params.page.comment.giscus]
+        enable = true
+        repo = "kingcanfish/blog-lts"
+        repoId = "R_kgDONi7Dbg"
+        category = "Announcements"
+        categoryId = "DIC_kwDONi7Dbs4Cljer"
+        mapping = "pathname"
+        origin = "https://giscus.app" # FixIt 0.3.7 | 新增 Or set it to your self-hosted domain
+        strict = "0" # FixIt 0.2.18 | 新增
+        term = ""
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "bottom" # ["top", "bottom"]
+        lightTheme = "light"
+        darkTheme = "dark"
+        lazyLoad = true
+
+
+
+[menu]
+
+
+[[menu.main]]
+    identifier = "photo"
+    parent = ""
+    pre = ""
+    post = ""
+    name = "Photos"
+    url = "/photos"
+    title = ""
+    weight = 1
+    [menu.main.params]
+      icon = "fa-solid fa-camera"
+
+
+  [[menu.main]]
+    identifier = "archives"
+    parent = ""
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Archives"
+    url = "/archives/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 2
+    # FixIt 0.2.14 | NEW add user-defined content to menu items
+    [menu.main.params]
+      # add css class to a specific menu item
+      class = ""
+      # whether set as a draft menu item whose function is similar to a draft post/page
+      draft = false
+      # FixIt 0.2.16 | NEW add fontawesome icon to a specific menu item
+      icon = "fa-solid fa-archive"
+      # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
+      type = ""
+      # FixIt 0.3.9 | NEW whether to show the submenu item divider line
+      divided = false
+  [[menu.main]]
+    identifier = "categories"
+    parent = ""
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+    [menu.main.params]
+      icon = "fa-solid fa-folder-tree"
+  [[menu.main]]
+    identifier = "tags"
+    parent = ""
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 4
+    [menu.main.params]
+      icon = "fa-solid fa-tags"
+
+       [[menu.main]]
+    identifier = "home"
+    parent = ""
+    pre = ""
+    post = ""
+    name = "Home"
+    url = "https://gxy.plus"
+    title = ""
+    weight = 4
+    [menu.main.params]
+      icon = "fa-solid fa-tags"
