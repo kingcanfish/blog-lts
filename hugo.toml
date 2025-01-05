@@ -146,6 +146,14 @@ theme = 'FixIt'
         lazyLoad = true
         lang = "zh-CN"
 
+[params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-MKRCLZC270"
+      # whether to anonymize IP
+      anonymizeIP = true
+
 
 
 [menu]
