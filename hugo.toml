@@ -152,7 +152,7 @@ theme = 'FixIt'
     [params.analytics.google]
       id = "G-MKRCLZC270"
       # whether to anonymize IP
-      anonymizeIP = true
+      anonymizeIP = false
 
 
 
