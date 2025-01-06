@@ -18,15 +18,11 @@
     {{- /* TODO preload script https://developer.mozilla.org/zh-CN/docs/Web/HTML/Attributes/rel/preload */ -}}
     {{- /* TODO add config and page config to config.js (static) */ -}}
     {{- /* Custom head */ -}}
-
+<!-- 
       <script type="module">
-        import { inject } from '@vercel/analytics';
-        import { dev } from '$app/environment';
-        
-        inject({
-          mode: dev ? 'development' : 'production',
-        });
-      </script>
+        import { inject } from 'https://cdn.jsdelivr.net/npm/@vercel/analytics';
+        inject();
+      </script> -->
       
     {{- block "custom-head" . }}{{ end -}}
   </head>
@@ -47,6 +43,16 @@
 
     {{- /* Load JavaScript scripts and CSS */ -}}
     {{- partial "assets.html" . -}}
+
+    <script>
+      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
+
+    <script>
+      window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
 
     
   </body>
