@@ -1,6 +1,6 @@
 baseURL = 'https://blog.gxy.plus'
 languageCode = 'zh-cn'
-title = 'Kingcanfish 的小星球🪐'
+title = 'Kingcanfish 的小星球 🪐'
 theme = 'FixIt'
 
 
@@ -13,13 +13,14 @@ theme = 'FixIt'
 
 [params]
   description = "Kingcanfish 的小星球"
-  keywords = ["Hugo", "FixIt", "Kingcanfish"]
+  keywords = ["Hugo", "Blog", "Kingcanfish", "博客", "总结"]
 
   [params.author]
-    name = "Kingcanfish"
+    name = "nobody"
+
     email = "i@gxy.plus"
     link = "https://gxy.plus"
-    avatar = "https://gxy.plus/assets/avatar-BhhaknQb.jpeg"
+    avatar = "https://gxy.plus/assets/images/avatar.jpeg"
 
 
   [params.search]
