@@ -6,10 +6,13 @@ theme = 'FixIt'
 
 [markup]
   _merge = "shallow"
-# [outputs]
-#   _merge = "shallow"
+[outputs]
+  # home = ["html", "rss", "archives", "offline", "search"]
+  _merge = "shallow"
 [taxonomies]
   _merge = "shallow"
+
+
 
 [params]
   description = "Kingcanfish 的小星球"
@@ -26,7 +29,7 @@ theme = 'FixIt'
   [params.search]
     enable = true
     type = "fuse"
-    contentLength = 4000
+    contentLength = 8000
     placeholder = ""
     maxResultLength = 10
     snippetLength = 30
@@ -38,14 +41,14 @@ theme = 'FixIt'
       searchKey = ""
     [params.search.fuse]
       isCaseSensitive = false
-      minMatchCharLength = 2
-      findAllMatches = false
+      minMatchCharLength = 1
+      findAllMatches = true
       location = 0
-      threshold = 0.3
+      threshold = 0.6
       distance = 100
       ignoreLocation = false
-      useExtendedSearch = false
-      ignoreFieldNorm = false
+      useExtendedSearch = true
+      ignoreFieldNorm = true
 
 
   [params.header]
