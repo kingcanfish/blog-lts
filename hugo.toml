@@ -6,8 +6,8 @@ theme = 'FixIt'
 
 [markup]
   _merge = "shallow"
-[outputs]
-  _merge = "shallow"
+# [outputs]
+#   _merge = "shallow"
 [taxonomies]
   _merge = "shallow"
 
@@ -16,7 +16,7 @@ theme = 'FixIt'
   keywords = ["Hugo", "Blog", "Kingcanfish", "博客", "总结"]
 
   [params.author]
-    name = "nobody"
+    name = "Xinyu Kuo"
 
     email = "i@gxy.plus"
     link = "https://gxy.plus"
@@ -108,7 +108,7 @@ theme = 'FixIt'
 
     [params.social]
       github = "kingcanfish"
-      telegram = "nmdbrrc2"
+      telegram = "sitmedownshutmeup"
       email = "i@gxy.plus"
       rss = "true"
 
@@ -160,13 +160,25 @@ theme = 'FixIt'
 [menu]
 
 
-[[menu.main]]
-    identifier = "photo"
+  # [[menu.main]]
+  #   identifier = "photo"
+  #   parent = ""
+  #   pre = ""
+  #   post = ""
+  #   name = "Photos"
+  #   url = "/photos"
+  #   title = ""
+  #   weight = 1
+  #   [menu.main.params]
+  #     icon = "fa-solid fa-camera"
+
+  [[menu.main]]
+    identifier = "about"
     parent = ""
     pre = ""
     post = ""
-    name = "Photos"
-    url = "/photos"
+    name = "About"
+    url = "/about"
     title = ""
     weight = 1
     [menu.main.params]
@@ -220,7 +232,7 @@ theme = 'FixIt'
     [menu.main.params]
       icon = "fa-solid fa-tags"
 
-       [[menu.main]]
+  [[menu.main]]
     identifier = "home"
     parent = ""
     pre = ""
