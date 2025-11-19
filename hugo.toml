@@ -15,6 +15,10 @@ theme = 'FixIt'
 
 
 [params]
+  [params.custom]
+    head = '''
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Roboto:wght@400;500;600;700&display=swap" rel="stylesheet">
+    '''
   description = "Kingcanfish 的小星球"
   keywords = ["Hugo", "Blog", "Kingcanfish", "博客", "总结"]
 
@@ -129,6 +133,9 @@ theme = 'FixIt'
     light = ""
     dark = ""
     height = "2px"
+
+[params.page]
+  pageStyle = "narrow"
 
 [params.page.comment]
       enable = true
