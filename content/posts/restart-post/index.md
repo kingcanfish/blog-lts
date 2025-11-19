@@ -1,12 +1,12 @@
 ---
 title: My First Post
-subtitle:
+subtitle: 
 date: 2024-12-27T22:16:09+08:00
 slug: first
 draft: false
-description:
-keywords:
-license:
+description: 
+keywords: 
+license: 
 comment: true
 weight: 0
 tags:
@@ -17,7 +17,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
 hiddenFromFeed: false
-summary:
+summary: 
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -26,13 +26,11 @@ resources:
 toc: true
 math: false
 lightgallery: false
-password:
-message:
+password: 
+message: 
 repost:
   enable: false
   url:
-
-# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
 已是一片荒芜 需要前来打扫打扫🧹 希望一切都是新的

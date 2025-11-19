@@ -1,12 +1,12 @@
 ---
 title: 2024 ⏩⏩
-subtitle:
+subtitle: 
 date: 2024-12-31T14:58:35+08:00
-slug: 2024
+slug: "2024"
 draft: false
 description: 2024 年终流水文
-keywords:
-license:	
+keywords: 
+license: 
 comment: true
 weight: 0
 tags:
@@ -17,7 +17,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
 hiddenFromFeed: false
-summary:
+summary: 
 resources:
   - name: featured-image
     src: featured.jpg
@@ -26,13 +26,11 @@ resources:
 toc: true
 math: false
 lightgallery: false
-password:
-message:
+password: 
+message: 
 repost:
   enable: false
   url:
-
-# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
 
@@ -71,12 +69,15 @@ repost:
 说回裁员的问题，其实不是我水平和产出的问题；高层不愿意承认路线上的错误，总有一些我们这种小卡拉米来背锅：
 
 ### 从整个飞书产品上来看:
+<p align="center">
+  <img src="feishu6.jpg" alt="feishu6" style="zoom:67%;" />
+</p>
 
-<img src="feishu6.jpg" alt="feishu6" style="zoom:67%;" />
 
 上面是飞书 7之前的UI， 下面是飞书7之后的 UI
-
-<img src="feishu7.png" alt="飞书7" style="zoom:67%;" />
+<p align="center">
+	<img src="feishu7.png" alt="飞书7" style="zoom:67%;" />
+</p>
 
 - 搜索功能从最顶上的大入口移到了左边那么小小的一条（这还是内测版本被骂过之后的优化，最初的版本只有一个放大镜的小按钮）
 
@@ -120,12 +121,15 @@ repost:
 希望内地也早点脱离自嗨环境 跟上时代潮流 早点普及NFC支付吧，让每个人都能享受科技的乐趣。
 
 其他就没什么了， 维多利亚港和太平山 十几年前就去过，但再次看还是觉得很震撼
-
+<p align="center">
 <img src="hongkong1.jpg" alt="太平山夜景" style="zoom: 67%;" />
-
+</p>
+<p align="center">
 <img src="hongkong2.jpeg" alt="hongkong2" style="zoom:67%;" />
-
+</p>
+<p align="center">
 <img src="hongkong3.jpeg" alt="维多利亚" style="zoom:67%;" />
+</p>
 
  一个路人小姐姐
 
@@ -140,21 +144,21 @@ repost:
 纯纯商业古城，里面全是后面进来的商人，原住民早就搬出去了，酒吧（酒馆）、写真店、民宿、各种宰人的花茶、咖啡、玫瑰花饼店；只适合热恋中的小情侣来拍写真；除了湛蓝的天空 和 晚上在狮子山（好像是叫这个） 俯瞰的夜景，其他的我都觉得一般，没什么吸引力 商业化太严重了，里面的商人都心怀鬼胎 充满着欺诈消费（暴论）
 
 
-
+<p align="center">
 <img src="lijiang1.jpeg" alt="lijiang" style="zoom:67%;" />
+</p>
 
 
 
-
-
+<p align="center">
 <img src="lijiang2.jpeg" alt="46387761-FF72-41CA-B9C5-D58034B3382F_1_105_c" style="zoom:67%;" />
-
+</p>
 #### 玉龙雪山
 
 去的时候是春夏之交，刚好去的前几天山顶还下了一场大雪，运气挺不错的； 看到一小会儿日照金山， 山顶上反而觉得不是很惊艳算是正常发吧，爬山没缺氧，倒是下山的时候下降速度太快醉氧了，直接昏死过去（
-
+<p align="center">
 <img src="yulong.jpeg" alt="89C00008-4BCF-4F76-8A0E-B9E8254E6B61_1_105_c" style="zoom: 67%;" />
-
+</p>
 一些拍婚纱照的新人，希望他们百年好合 ![image-20241231180132668](marry.png)
 
 
@@ -162,9 +166,9 @@ repost:
 ### 大理
 
 其实云南我最想去的就是大理了，我想每一个仙剑迷应该对南诏国都有一种的特别的滤镜，但是很遗憾，大理待了那么几天，没有找到 印象滤镜中南诏古国的样子，听说南诏国的发源地在离大理几十公里外的巍山，那里的古城没有什么商业化，都是原住民，保留着原本的味道，下次一定去！
-
+<p align="center">
 <img src="dali.jpeg" alt="dali" style="zoom:67%;" />
-
+</p>
 时间来不及了 复制图片太麻烦了 就这样吧
 
 
@@ -188,7 +192,6 @@ repost:
 2025希望大家都能被爱与快乐包围🎉
 
 > 头图生成： ChatGPT ， 帮我生成一张元旦江滩跨年绚丽烟花的横幅图片，不需要很多人 构图主体有几个人 ，江滩，烟花 就行
-
 
 
 <p align="right"><u>于水南街星巴克</u></p>
