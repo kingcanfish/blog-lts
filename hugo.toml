@@ -30,7 +30,7 @@ copyright = "2024 Kingcanfish. All rights reserved."
     tabWidth = 4
 
 [params]
-subtitle = "Kingcanfish 的小星球"
+subtitle = "人生何处不青山"
 description = "Kingcanfish 的小星球"
 keywords = ["Hugo", "Blog", "Kingcanfish", "博客", "总结"]
 enableGitalk = false
