@@ -1,38 +1,14 @@
 ---
 title: 2024 ⏩⏩
-subtitle: 
 date: 2024-12-31T14:58:35+08:00
-slug: "2024"
-draft: false
 description: 2024 年终流水文
-keywords: 
-license: 
 comment: true
-weight: 0
-tags:
-  - 年终总结
-categories:
-  - 2024
-hiddenFromHomePage: false
-hiddenFromSearch: false
-hiddenFromRelated: false
-hiddenFromFeed: false
-summary: 
-resources:
-  - name: featured-image
-    src: featured.jpg
-  - name: featured-image-preview
-    src: featured-image-preview.jpg
-toc: true
-math: false
-lightgallery: false
-password: 
-message: 
-repost:
-  enable: false
-  url:
----
+tags: 年终总结
+categories: 2024
+featured_image: "featured.jpg"
 
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
+---
 
 
 

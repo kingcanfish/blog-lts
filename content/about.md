@@ -1,4 +1,6 @@
-
+---
+hidden: true
+---
 # About Me
 
 现在没什么好值得介绍的  
