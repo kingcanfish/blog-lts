@@ -8,7 +8,7 @@ tag: [Go, Redis, Hash, 底层原理]
 
 categories: GO
 cover: https://static.guoxy.top/img/image-20200617115140687.png
-descrcript: Go和Redis中的Hash
+description: Go和Redis中的Hash
 ---
 
 
