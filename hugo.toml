@@ -18,15 +18,20 @@ copyright = "2024 Kingcanfish. All rights reserved."
 [markup.goldmark.renderer]
     unsafe = true
 
+# 亮色主题可选: github, xcode, vs, friendly 等
+# hugo gen chromastyles --style=github > assets/css/syntax-light.css
+
+# 暗色主题可选: monokai, dracula, nord, vim 等
+#hugo gen chromastyles --style=dracula > assets/css/syntax-dark.css
+
 [markup]
   [markup.highlight]
     codeFences = true
     guessSyntax = true
     lineNoStart = 1
-    lineNos = false
+    lineNos = true
     lineNumbersInTable = true
-    noClasses = true
-    style = "perldoc"
+    noClasses = false
     tabWidth = 4
 
 [params]

@@ -1,0 +1,15 @@
+<!-- Syntax Highlighting Styles -->
+{{ $syntaxLight := resources.Get "css/syntax-light.css" | minify | fingerprint }}
+{{ $syntaxDark := resources.Get "css/syntax-dark.css" | minify | fingerprint }}
+
+<style>
+  /* Light mode syntax highlighting */
+  body:not(.night) {
+    {{ $syntaxLight.Content | safeCSS }}
+  }
+
+  /* Dark mode syntax highlighting */
+  body.night {
+    {{ $syntaxDark.Content | safeCSS }}
+  }
+</style>
