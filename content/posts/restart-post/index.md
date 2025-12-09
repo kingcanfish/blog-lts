@@ -2,7 +2,8 @@
 title: My First Post
 date: 2024-12-27T22:16:09+08:00
 comment: true
-tags: draft
+tags:
+  - draft
 categories: draft
 featured_image: "featured-image.jpg"
 

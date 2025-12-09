@@ -3,8 +3,9 @@ title: 2024 ⏩⏩
 date: 2024-12-31T14:58:35+08:00
 description: 2024 年终流水文
 comment: true
-tags: 年终总结
-categories: 2024
+tags:
+  - 年终总结
+categories: "2024"
 featured_image: "featured.jpg"
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
@@ -129,13 +130,17 @@ featured_image: "featured.jpg"
 <p align="center">
 <img src="lijiang2.jpeg" alt="46387761-FF72-41CA-B9C5-D58034B3382F_1_105_c" style="zoom:67%;" />
 </p>
+
 #### 玉龙雪山
 
 去的时候是春夏之交，刚好去的前几天山顶还下了一场大雪，运气挺不错的； 看到一小会儿日照金山， 山顶上反而觉得不是很惊艳算是正常发吧，爬山没缺氧，倒是下山的时候下降速度太快醉氧了，直接昏死过去（
 <p align="center">
 <img src="yulong.jpeg" alt="89C00008-4BCF-4F76-8A0E-B9E8254E6B61_1_105_c" style="zoom: 67%;" />
 </p>
-一些拍婚纱照的新人，希望他们百年好合 ![image-20241231180132668](marry.png)
+
+一些拍婚纱照的新人，希望他们百年好合
+
+![marry](marry.png)
 
 
 

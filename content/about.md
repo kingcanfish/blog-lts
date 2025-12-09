@@ -1,5 +1,11 @@
 ---
-hidden: true
+title: "ABOUT"
+slug: "about"
+menu:
+    main:
+        weight: -20
+        params:
+            icon: user
 ---
 # About Me
 
