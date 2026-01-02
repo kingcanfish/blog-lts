@@ -38,3 +38,11 @@ li code,
 td code {
     font-size: 1.5rem !important;
 }
+
+/* 首页文章列表头图：按原图比例显示，避免固定高度裁剪 */
+.article-list article .article-image img {
+    height: auto !important;
+    max-height: none !important;
+    object-fit: contain !important;
+    display: block;
+}
