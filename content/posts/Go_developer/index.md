@@ -33,8 +33,6 @@ description: Go 语言开发人员路线图
 
 ## 路线图
 
-![Roadmap](https://guoxy-common.oss-cn-hangzhou.aliyuncs.com/blog/golang-developer-roadmap.png)
-
 ## 资源
 
 1. 先决条件

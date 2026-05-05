@@ -6,7 +6,7 @@ comment: true
 tags:
   - 年终总结
 categories: "2024"
-featured_image: "hongkong1.jpg"
+image: "hongkong1.jpg"
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---

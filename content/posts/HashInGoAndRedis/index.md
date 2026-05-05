@@ -29,8 +29,6 @@ description: Go和Redis中的Hash
 
 > 图源 *Redis 设计与实现*
 
-![image-20200603091130859](https://static.guoxy.top/img/image-20200603091130859.png)
-
 ### Hash 表  
 
 `Redis` 中的hash表由以下结构定义:
@@ -220,8 +218,6 @@ type bmap struct {
     overflow uintptr
 }
 ```
-
-![image-20200606221605785](https://static.guoxy.top/img/image-20200606221605785.png)
 
 + 上面猛男色对应的就是 `topbits` / `tophash`
 + 青色对应的是 `keys`

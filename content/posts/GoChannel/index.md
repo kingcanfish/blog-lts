@@ -77,8 +77,6 @@ type waitq struct {
 
 
 
-![](https://static.guoxy.top/img/chan-04-recieve_data.png)
-
 ## 举个例子
 
 拿 餐厅的厨师，窗口， 服务员为例子

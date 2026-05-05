@@ -14,8 +14,6 @@ description: 一些数据结构和算法的golang 实现
 
 ~~人老了就需要记录一下知识点~~
 
-![](https://static.guoxy.top/img/structAndAl.jpg)
-
 ## 排序
 
 

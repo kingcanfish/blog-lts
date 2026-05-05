@@ -1,5 +1,5 @@
 baseurl: https://blog.gxy.plus
-languageCode: zh-cn
+locale: zh-cn
 theme: stack
 title: Kingcanfish 的小星球 🪐
 copyright: Kingcanfish. All rights reserved.
@@ -33,7 +33,6 @@ permalinks:
 params:
     mainSections:
         - posts
-    featuredImageField: featured_image
     rssFullContent: true
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
@@ -56,10 +55,7 @@ params:
     sidebar:
         emoji: 🦀
         subtitle: 人生何处不青山
-        avatar:
-            enabled: true
-            local: true
-            src: avatar.png
+        avatar: avatar.png
 
     article:
         math: true

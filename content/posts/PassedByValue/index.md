@@ -118,8 +118,6 @@ func main() {
 + 引用类型可以使用 `make` `new` 分配堆上的内存
 + 如果你要问我说 `指针变量` 是一种什么类型 我的回答是 `无可奉告`
 
-![](https://guoxy-static.oss-cn-shanghai.aliyuncs.com/values_reference_types.png)
-
 
 
 ## 引用传递和值传递

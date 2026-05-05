@@ -6,7 +6,7 @@ tags:
   - 年度总结
 categories: 年度总结
 description: 2019 年度总结
-featured_image: "header.png"
+image: "header.png"
 
 ---
 

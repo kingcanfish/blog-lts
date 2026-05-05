@@ -67,10 +67,6 @@ for (tmp_tb1_row : tmp_tb1) {
 
 **图片说明**
 
-![](https://guoxy-common.oss-cn-hangzhou.aliyuncs.com/mysql1.png)
-
-![](https://guoxy-common.oss-cn-hangzhou.aliyuncs.com/sql2.png)
-
 ## EXPLAIN 的参数
 
 | id     | select_type  | table | type     | possible_keys  | key                | key_len  | ref        | rows               | Exrta    |

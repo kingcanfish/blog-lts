@@ -5,7 +5,7 @@ comment: true
 tags:
   - draft
 categories: draft
-featured_image: "featured-image.jpg"
+image: "featured-image.jpg"
 
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
