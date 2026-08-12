@@ -46,3 +46,35 @@ td code {
     object-fit: contain !important;
     display: block;
 }
+
+/*
+ * 侧栏宽度自适应
+ * 主题默认用百分比（右栏 25%~30%），在 1024px~1440px 这类窄屏上
+ * 左右两栏会挤压正文。改为 clamp()：窄屏收缩到下限、宽屏才放大到上限，
+ * 正文因此能拿到更多宽度。
+ *
+ * 注意：必须限制在 md(768px) 以上——手机上主题不定义这两个变量，
+ * 侧栏是整行堆叠的，加了上限会把顶部头像/菜单挤成一小条。
+ */
+@media (min-width: 768px) {
+    .container.extended {
+        --left-sidebar-max-width: clamp(180px, 16vw, 240px);
+        --right-sidebar-max-width: clamp(200px, 20vw, 320px);
+    }
+}
+
+/* 窄屏时收紧栏间距（默认 40px x 2），进一步让出正文空间 */
+@media (min-width: 1024px) {
+    .main-container {
+        gap: clamp(20px, 2.5vw, 40px);
+    }
+}
+
+/* 目录内容跟随栏宽伸缩，长标题换行而不是被裁掉 */
+.widget--toc {
+    max-width: 100%;
+
+    .toc-nav a {
+        overflow-wrap: break-word;
+    }
+}
