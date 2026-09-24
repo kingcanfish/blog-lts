@@ -78,3 +78,22 @@ td code {
         overflow-wrap: break-word;
     }
 }
+
+/*
+ * 暗色模式下原生控件（滚动条等）跟随配色
+ * 主题只通过 data-scheme 切换 CSS 变量，没有设置 color-scheme，
+ * 导致暗色模式下分类卡片那一行的横向滚动条仍是白色轨道。
+ */
+:root[data-scheme="light"] {
+    color-scheme: light;
+}
+
+:root[data-scheme="dark"] {
+    color-scheme: dark;
+}
+
+/* 分类卡片横向滚动条：细一点、透明轨道，不抢视觉 */
+.subsection-list {
+    scrollbar-width: thin;
+    scrollbar-color: var(--card-text-color-tertiary) transparent;
+}

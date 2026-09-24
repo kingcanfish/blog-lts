@@ -6,7 +6,7 @@ comment: true
 tags:
   - 年终总结
 categories: "2025"
-image: "photos/featured.JPG"
+image: "photos/featured.webp"
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
@@ -33,7 +33,7 @@ image: "photos/featured.JPG"
 
 **杭州的新日常**
 安顿下来后，平日我上班，母亲便在家追剧，闲暇时去附近的菜市场逛逛。一般到了周末，父亲会从上海赶来，我们一家三口就在杭州城里闲逛。一年下来，杭州能去的地方基本都踏遍了。实在无处可去时，我们便想着明年往周边探索一下，周末租辆车，去湖州、安吉、绍兴转转，一来练练手，二来也算是个短途旅行。
-![带父母去外滩看夜景](photos/shanghai.JPG)
+![带父母去外滩看夜景](photos/shanghai.webp)
 
 ## 旅途：山海与信仰
 
@@ -47,11 +47,11 @@ image: "photos/featured.JPG"
 到了理塘（文中“礼堂”应为笔误），我也没能免俗，朝圣了一下丁真，拍了个“丽丽同款”视频，画面过于抽象，我自己都不好意思点开看。
 
 途经新龙、炉霍这几个小县城时，我感觉这地方养老简直太舒服了。小小的城区，几分钟就能从这头走到那头，慢节奏得让人心安。最后一天快速过了一下四姑娘山，感觉作为反穿的最后一站，它的震撼力远不及最先看到的鱼子西和折多山——也许，“首因效应”在风景面前也同样适用吧。
-![日照金](photos/mountain.jpg)
-![日照金山](photos/gold_mountain.JPG)
-![亚丁](photos/yading.JPG)
-![川西](photos/chuanxi.JPG)
-![甘孜](photos/ganzi.JPG)
+![日照金](photos/mountain.webp)
+![日照金山](photos/gold_mountain.webp)
+![亚丁](photos/yading.webp)
+![川西](photos/chuanxi.webp)
+![甘孜](photos/ganzi.webp)
 
 **台州：寻味与听海**
 跨年前的那个周末，来了一场说走就走的特种兵式旅行。我和 ujay、zhouyingsasa 一拍即合，驱车前往台州。其实几年前我们就念叨着想吃新荣记，想去看看这唯一的米其林连锁餐厅到底有何过人之处。
@@ -61,7 +61,7 @@ image: "photos/featured.JPG"
 周日如愿去吃了新荣记，点了份 598 元/位的冬至“穷鬼套餐”。说实话，这让我有点“山猪吃细糠”的惶恐。新荣记确实好吃，但我甚至不知该如何精准描述它的美味。唯独那道醉蟹，蟹膏肥美，黄酒的醇香沁人心脾，至今难忘。
 
 跨年夜看了一场交响乐音乐会。听说乐团还有“高级团”和“水团”之分，高雅艺术的行列我也不太懂，但听着确实不错。现场还有互动环节，我也算是体验了一次“被指挥”的感觉。
-![日照金山](photos/taizhou.JPG)
+![日照金山](photos/taizhou.webp)
 
 ## 工作：抉择与磨合
 
@@ -120,6 +120,6 @@ image: "photos/featured.JPG"
 
 **其他**
 本来说 2025 年要减肥来着，从年初的 160 斤减到 9 月份的 140 斤，断断续续锻炼，效果还算凑合。但因为听说去川西高海拔前不能做剧烈运动，就停了。没想到这一停， inertia（惯性）占了上风，再也没恢复锻炼。我这个人靠意志力是不行的，得靠习惯。
-![alt text](photos/run.png)
+![alt text](photos/run.webp)
 
 明年再接再厉吧，目标 120 斤。干！

@@ -3,7 +3,6 @@ title: Go 语言的 sync.Map 浅析
 date: 2020-12-02T10:46:00
 tag: [map, sync, go]
 categories: go
-cover: https://pic.guoxy.top/img/dvoe.svg
 description: Go 语言的 sync.Map 浅析
 ---
 

@@ -3,7 +3,6 @@ title: 【转】GO：sync.Mutex 的实现与演进
 date: 2020-12-09T14:31:00+08:00
 tag: [Go, mutex, 锁]
 categories: GO
-cover: https://pic.guoxy.top/img/mutex.jpg
 description: GO：sync.Mutex 的实现与演进
 ---
 

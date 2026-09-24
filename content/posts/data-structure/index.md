@@ -6,7 +6,6 @@ date: 2020-06-11T14:31:00+08:00
 tag: [数据结构, 算法, 排序]
 
 categories: 数据结构
-cover: https://static.guoxy.top/img/image-20200612210809033.png
 description: 一些数据结构和算法的golang 实现
 ---
 

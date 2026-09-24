@@ -6,7 +6,6 @@ date: 2020-06-11T14:31:00+08:00
 tag: [Go, channel, 底层原理]
 
 categories: GO
-cover: https://static.guoxy.top/img/image-20200611233011241.png
 
 description: channel 的小学习
 ---

@@ -6,7 +6,6 @@ date: 2020-07-19T21:43:24+08:00
 tag: [Go, goroutine, 底层原理]
 
 categories: GO
-cover: https://static.guoxy.top/img/goroutine/88.png
 description: MGP模型
 ---
 本文转自:  https://learnku.com/articles/41728  

@@ -6,7 +6,7 @@ comment: true
 tags:
   - 年终总结
 categories: "2024"
-image: "hongkong1.jpg"
+image: "hongkong1.webp"
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
@@ -47,13 +47,13 @@ image: "hongkong1.jpg"
 
 ### 从整个飞书产品上来看:
 <p align="center">
-  <img src="feishu6.jpg" alt="feishu6" style="zoom:67%;" />
+  <img src="feishu6.webp" alt="feishu6" style="zoom:67%;" />
 </p>
 
 
 上面是飞书 7之前的UI， 下面是飞书7之后的 UI
 <p align="center">
-	<img src="feishu7.png" alt="飞书7" style="zoom:67%;" />
+	<img src="feishu7.webp" alt="飞书7" style="zoom:67%;" />
 </p>
 
 - 搜索功能从最顶上的大入口移到了左边那么小小的一条（这还是内测版本被骂过之后的优化，最初的版本只有一个放大镜的小按钮）
@@ -99,13 +99,13 @@ image: "hongkong1.jpg"
 
 其他就没什么了， 维多利亚港和太平山 十几年前就去过，但再次看还是觉得很震撼
 <p align="center">
-<img src="hongkong1.jpg" alt="太平山夜景" style="zoom: 67%;" />
+<img src="hongkong1.webp" alt="太平山夜景" style="zoom: 67%;" />
 </p>
 <p align="center">
-<img src="hongkong2.jpeg" alt="hongkong2" style="zoom:67%;" />
+<img src="hongkong2.webp" alt="hongkong2" style="zoom:67%;" />
 </p>
 <p align="center">
-<img src="hongkong3.jpeg" alt="维多利亚" style="zoom:67%;" />
+<img src="hongkong3.webp" alt="维多利亚" style="zoom:67%;" />
 </p>
 
  一个路人小姐姐
@@ -122,25 +122,25 @@ image: "hongkong1.jpg"
 
 
 <p align="center">
-<img src="lijiang1.jpeg" alt="lijiang" style="zoom:67%;" />
+<img src="lijiang1.webp" alt="lijiang" style="zoom:67%;" />
 </p>
 
 
 
 <p align="center">
-<img src="lijiang2.jpeg" alt="46387761-FF72-41CA-B9C5-D58034B3382F_1_105_c" style="zoom:67%;" />
+<img src="lijiang2.webp" alt="46387761-FF72-41CA-B9C5-D58034B3382F_1_105_c" style="zoom:67%;" />
 </p>
 
 #### 玉龙雪山
 
 去的时候是春夏之交，刚好去的前几天山顶还下了一场大雪，运气挺不错的； 看到一小会儿日照金山， 山顶上反而觉得不是很惊艳算是正常发吧，爬山没缺氧，倒是下山的时候下降速度太快醉氧了，直接昏死过去（
 <p align="center">
-<img src="yulong.jpeg" alt="89C00008-4BCF-4F76-8A0E-B9E8254E6B61_1_105_c" style="zoom: 67%;" />
+<img src="yulong.webp" alt="89C00008-4BCF-4F76-8A0E-B9E8254E6B61_1_105_c" style="zoom: 67%;" />
 </p>
 
 一些拍婚纱照的新人，希望他们百年好合
 
-![marry](marry.png)
+![marry](marry.webp)
 
 
 
@@ -148,7 +148,7 @@ image: "hongkong1.jpg"
 
 其实云南我最想去的就是大理了，我想每一个仙剑迷应该对南诏国都有一种的特别的滤镜，但是很遗憾，大理待了那么几天，没有找到 印象滤镜中南诏古国的样子，听说南诏国的发源地在离大理几十公里外的巍山，那里的古城没有什么商业化，都是原住民，保留着原本的味道，下次一定去！
 <p align="center">
-<img src="dali.jpeg" alt="dali" style="zoom:67%;" />
+<img src="dali.webp" alt="dali" style="zoom:67%;" />
 </p>
 时间来不及了 复制图片太麻烦了 就这样吧
 

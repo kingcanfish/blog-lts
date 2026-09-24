@@ -3,7 +3,6 @@ title: 2020 杂事随记
 date: 2020-12-26T23:58:36+08:00
 tag: [2020, 总结]
 categories: 年度总结
-cover: https://pic.guoxy.top/img/dvoe.svg
 description: 2020 年终流水文
 ---
 

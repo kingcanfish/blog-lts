@@ -2,7 +2,6 @@
 title: 送给银河系之外的你
 date: 2020-12-24T22:45:00+08:00
 tag: [随想]
-cover: https://pic.guoxy.top/img/dvoe.svg
 description: 是金
 ---
 
